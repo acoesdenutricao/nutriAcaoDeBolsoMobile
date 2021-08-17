@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.shell.linux": "",
+    "terminal.integrated.automationShell.linux": "",
+    "terminal.integrated.enablePersistentSessions": false,
+    "terminal.integrated.shell.windows": ""
+}
